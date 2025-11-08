@@ -1,0 +1,3 @@
+interface Fuel {
+    void refuel();
+}
